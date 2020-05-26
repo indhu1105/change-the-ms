@@ -1,0 +1,22 @@
+{
+  "name": "change-the-ms",
+  "version": "0.0.1",
+  "description": "\"convert given number of milliseconds to seconds, minutes, hours, days and year\"",
+  "main": "ms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indhu1105/change-the-ms.git"
+  },
+  "author": "Indhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indhu1105/change-the-ms/issues"
+  },
+  "homepage": "https://github.com/indhu1105/change-the-ms#readme",
+  "dependencies": {
+    "indhu-test": "github:indhu1105/Indhu-test-library"
+  }
+}
